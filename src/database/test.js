@@ -12,7 +12,7 @@ Database.then( async (db) => {
     }
 
     classValue = {
-        subject: "Geografia",
+        subject: 1,
         cost: "20"
         // o proffy id vira com o banco de dados
     }
